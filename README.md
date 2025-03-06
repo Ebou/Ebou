@@ -1,7 +1,7 @@
 ### 🧑🏾‍💻 Ebou, known as Zaki!
 <hr>
 
-IDedicated developer with a focus on **GTA V (FiveM)** scripting. With over 6 years of experience in Lua and a passion for creating visually appealing and efficient mods, I also have expertise in graphic design which complements my development work. 
+Dedicated developer with a focus on **GTA V (FiveM)** scripting. With over 6 years of experience in Lua and a passion for creating visually appealing and efficient mods, I also have expertise in graphic design which complements my development work. 
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=website&logoColor=white)](https://Ebou.xyz/)
 ![Profile view](https://komarev.com/ghpvc/?username=Ebou&label=Profile%20views&color=0000FF&style=for-the-badge)
