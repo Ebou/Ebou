@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ebou, fka. Zaki</h1>
 <h3 align="center">Dedicated developer with a focus on GTA V (FiveM) scripting. With over 6 years of experience in Lua and a passion for creating visually appealing and efficient mods, I also have expertise in graphic design which complements my development work.</h3>
 
-- 🔭 I’m currently working on [zakis.dev](zakis.dev)
+- 🔭 I’m currently working on [zakis.dev](https://zakis.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
